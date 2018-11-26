@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/panini-app/precache-manifest.4fe36ae0bd27757b5e08f2961d752100.js"
+  "/panini-app/precache-manifest.e8d6f0d732205e3fb0395ef98c82f7ce.js"
 );
 
 workbox.clientsClaim();
